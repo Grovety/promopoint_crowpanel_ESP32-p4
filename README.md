@@ -10,8 +10,8 @@ This package provides ready-to-use Windows packages for hardware revision **V1.2
 
 | Package | Description |
 | --- | --- |
-| [MediaPlayer-for-CrowPanel-p4-v1.2.zip](github.com/Grovety/promopoint_crowpanel_ESP32-p4/blob/master/MediaPlayer-for-CrowPanel-p4-v1.2-release-1.1.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.2** |
-| [MediaManager-for-Windows.zip](github.com/Grovety/promopoint_crowpanel_ESP32-p4/blob/master/MediaManager-for-Windows-release-1.1.zip) | Media Manager — the Windows application for managing the panel's media content |
+| [MediaPlayer-for-CrowPanel-p4-v1.2.zip](./MediaPlayer-for-CrowPanel-p4-v1.2-release-1.1.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.2** |
+| [MediaManager-for-Windows.zip](./MediaManager-for-Windows-release-1.1.zip) | Media Manager — the Windows application for managing the panel's media content |
 
 ## Flashing the firmware
 
