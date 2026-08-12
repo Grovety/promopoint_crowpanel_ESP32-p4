@@ -10,10 +10,10 @@ This repository provides ready-to-use Windows packages for hardware revisions **
 
 | Package | Description |
 | --- | --- |
-| [MediaPlayer-for-CrowPanel-p4-v1.0-release-1.1.zip](./MediaPlayer-for-CrowPanel-p4-v1.0-release-1.1.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.0** |
-| [MediaPlayer-for-CrowPanel-p4-v1.1-release-1.1.zip](./MediaPlayer-for-CrowPanel-p4-v1.1-release-1.1.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.1** |
-| [MediaPlayer-for-CrowPanel-p4-v1.2-release-1.1.zip](./MediaPlayer-for-CrowPanel-p4-v1.2-release-1.1.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.2** |
-| [MediaManager-for-Windows-release-1.1.zip](./MediaManager-for-Windows-release-1.1.zip) | Media Manager — the Windows application for managing the panel's media content |
+| [MediaPlayer-for-CrowPanel-p4-v1.0-release-1.2.zip](./MediaPlayer-for-CrowPanel-p4-v1.0-release-1.2.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.0** |
+| [MediaPlayer-for-CrowPanel-p4-v1.1-release-1.2.zip](./MediaPlayer-for-CrowPanel-p4-v1.1-release-1.2.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.1** |
+| [MediaPlayer-for-CrowPanel-p4-v1.2-release-1.2.zip](./MediaPlayer-for-CrowPanel-p4-v1.2-release-1.2.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.2** |
+| [MediaManager-for-Windows-release-1.2.zip](./MediaManager-for-Windows-release-1.2.zip) | Media Manager — the Windows application for managing the panel's media content |
 
 ## Flashing the firmware
 
@@ -38,3 +38,5 @@ The panel restarts automatically after flashing.
 ## Troubleshooting
 
 If the panel is not detected, reconnect it through UART0, close any application using the COM port, and click **Refresh**.
+
+If the COM port still does not appear, install the [CH341 USB serial driver](https://www.wch-ic.com/downloads/CH341SER_ZIP.html), reconnect the panel, and click **Refresh** again.
