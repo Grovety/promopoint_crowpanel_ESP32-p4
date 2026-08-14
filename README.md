@@ -13,7 +13,7 @@ This repository provides ready-to-use Windows packages for hardware revisions **
 | [MediaPlayer-for-CrowPanel-p4-v1.0-release-1.5.zip](./MediaPlayer-for-CrowPanel-p4-v1.0-release-1.5.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.0** |
 | [MediaPlayer-for-CrowPanel-p4-v1.1-release-1.5.zip](./MediaPlayer-for-CrowPanel-p4-v1.1-release-1.5.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.1** |
 | [MediaPlayer-for-CrowPanel-p4-v1.2-release-1.5.zip](./MediaPlayer-for-CrowPanel-p4-v1.2-release-1.5.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.2** |
-| [MediaManager-for-Windows-release-1.4.zip](./MediaManager-for-Windows-release-1.4.zip) | Media Manager — the Windows application for managing the panel's media content |
+| [MediaManager-for-Windows-release-1.5.zip](./MediaManager-for-Windows-release-1.5.zip) | Media Manager — the Windows application for managing the panel's media content |
 
 ## Flashing the firmware
 
@@ -31,8 +31,8 @@ The panel restarts automatically after flashing.
 
 ## Installing Media Manager
 
-1. Download and fully extract `MediaManager-for-Windows.zip`.
-2. Run `MediaManagerForCrowPanel-Setup-win-x64-1.4.exe`.
+1. Download and fully extract `MediaManager-for-Windows-release-1.5.zip`.
+2. Run `MediaManagerForCrowPanel-Setup-win-x64-1.5.exe`.
 3. Follow the installer instructions.
 
 ## Troubleshooting
