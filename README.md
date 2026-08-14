@@ -10,9 +10,9 @@ This repository provides ready-to-use Windows packages for hardware revisions **
 
 | Package | Description |
 | --- | --- |
-| [MediaPlayer-for-CrowPanel-p4-v1.0-release-1.5.zip](./MediaPlayer-for-CrowPanel-p4-v1.0-release-1.5.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.0** |
-| [MediaPlayer-for-CrowPanel-p4-v1.1-release-1.5.zip](./MediaPlayer-for-CrowPanel-p4-v1.1-release-1.5.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.1** |
-| [MediaPlayer-for-CrowPanel-p4-v1.2-release-1.5.zip](./MediaPlayer-for-CrowPanel-p4-v1.2-release-1.5.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.2** |
+| [MediaPlayer-for-CrowPanel-p4-v1.0-release-1.6.zip](./MediaPlayer-for-CrowPanel-p4-v1.0-release-1.6.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.0** |
+| [MediaPlayer-for-CrowPanel-p4-v1.1-release-1.6.zip](./MediaPlayer-for-CrowPanel-p4-v1.1-release-1.6.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.1** |
+| [MediaPlayer-for-CrowPanel-p4-v1.2-release-1.6.zip](./MediaPlayer-for-CrowPanel-p4-v1.2-release-1.6.zip) | PromoPoint firmware and the Windows flashing tool for panel **V1.2** |
 | [MediaManager-for-Windows-release-1.5.zip](./MediaManager-for-Windows-release-1.5.zip) | Media Manager — the Windows application for managing the panel's media content |
 
 ## Flashing the firmware
