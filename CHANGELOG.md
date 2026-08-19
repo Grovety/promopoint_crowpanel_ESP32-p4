@@ -1,9 +1,7 @@
 # Changelog
 
-## Version 1.7
+## 1.8
 
-  - Increased transfer speeds to up to 1 MB/s over Wi-Fi and 2.5 MB/s over USB.
-  - Fixed file delivery and transfer reliability issues.
-  - Added upload progress percentage and live transfer speed to the panel screen.
-  - Improved the Media Manager user interface.
-  - Added video resume from the last playback position after leaving the settings screen.
+- Improved the Media Manager user interface.
+- Updated file upload logic: uploading a new batch now fully removes the previous files.
+- Fixed minor bugs.
